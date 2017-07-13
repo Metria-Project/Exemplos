@@ -1,0 +1,9 @@
+D:\Metria Project\Teste de Grupos\bin\Release\Teste de Grupos.exe.config
+D:\Metria Project\Teste de Grupos\bin\Release\Teste de Grupos.exe
+D:\Metria Project\Teste de Grupos\bin\Release\Teste de Grupos.pdb
+D:\Metria Project\Teste de Grupos\bin\Release\Metria.dll
+D:\Metria Project\Teste de Grupos\bin\Release\Metria.pdb
+D:\Metria Project\Teste de Grupos\obj\Release\Teste de Grupos.csprojResolveAssemblyReference.cache
+D:\Metria Project\Teste de Grupos\obj\Release\Teste de Grupos.exe
+D:\Metria Project\Teste de Grupos\obj\Release\Teste de Grupos.pdb
+D:\Metria Project\Teste de Grupos\bin\Release\Metria.xml

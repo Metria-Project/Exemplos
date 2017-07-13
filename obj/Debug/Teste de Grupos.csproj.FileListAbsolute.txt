@@ -1,0 +1,18 @@
+D:\Metria Project\Teste de Grupos\bin\Debug\Teste de Grupos.exe.config
+D:\Metria Project\Teste de Grupos\bin\Debug\Teste de Grupos.exe
+D:\Metria Project\Teste de Grupos\bin\Debug\Teste de Grupos.pdb
+D:\Metria Project\Teste de Grupos\bin\Debug\Metria.dll
+D:\Metria Project\Teste de Grupos\bin\Debug\Metria.pdb
+D:\Metria Project\Teste de Grupos\obj\Debug\Teste de Grupos.exe
+D:\Metria Project\Teste de Grupos\obj\Debug\Teste de Grupos.pdb
+D:\Metria Project\Teste de Grupos\bin\Debug\Metria.xml
+D:\Metria Project\Teste de Grupos\obj\Debug\Teste de Grupos.csprojResolveAssemblyReference.cache
+D:\Metria Project - Copy\Teste de Grupos\bin\Debug\Teste de Grupos.exe.config
+D:\Metria Project - Copy\Teste de Grupos\bin\Debug\Teste de Grupos.exe
+D:\Metria Project - Copy\Teste de Grupos\bin\Debug\Teste de Grupos.pdb
+D:\Metria Project - Copy\Teste de Grupos\bin\Debug\Metria.dll
+D:\Metria Project - Copy\Teste de Grupos\bin\Debug\Metria.pdb
+D:\Metria Project - Copy\Teste de Grupos\bin\Debug\Metria.xml
+D:\Metria Project - Copy\Teste de Grupos\obj\Debug\Teste de Grupos.csprojResolveAssemblyReference.cache
+D:\Metria Project - Copy\Teste de Grupos\obj\Debug\Teste de Grupos.exe
+D:\Metria Project - Copy\Teste de Grupos\obj\Debug\Teste de Grupos.pdb

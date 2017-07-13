@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Metria</name>
+    </assembly>
+    <members>
+        <member name="T:Metria.Hyperbolic._2.Base">
+            <summary>
+            This class has no actual use, and is used only to especify some informations of the used geometry
+            </summary>
+        </member>
+        <member name="M:Metria.Hyperbolic._2.Line.Cut(Metria.Hyperbolic._2.Line,Metria.Hyperbolic._2.Point)">
+            <summary>
+            Este metodo corta a reta em duas, este metodo não considera retas coincidentes
+            </summary>
+            <param name="L">Reta do Corte</param>
+            <param name="reference">Ponto de Referencia</param>
+            <returns></returns>
+        </member>
+        <member name="T:Metria.Hyperbolic._2.Point">
+            <summary>
+            This class represents a point in the R² plane
+            </summary>
+        </member>
+        <member name="P:Metria.Hyperbolic._2.Point.X">
+            <summary>
+            X coordinate
+            </summary>
+        </member>
+        <member name="P:Metria.Hyperbolic._2.Point.Y">
+            <summary>
+            y coordinate
+            </summary>
+        </member>
+        <member name="M:Metria.Hyperbolic._2.Point.#ctor(System.Single,System.Single,System.Single,System.Single)">
+            <summary>
+            Constructor with rational number
+            </summary>
+            <param name="xu">X up</param>
+            <param name="xd">X down</param>
+            <param name="yu">Y up</param>
+            <param name="yd">Y down</param>
+        </member>
+        <member name="M:Metria.Hyperbolic._2.Point.#ctor">
+            <summary>
+            Creates a point in the orign
+            </summary>
+        </member>
+        <member name="M:Metria.Hyperbolic._2.Point.#ctor(System.Single,System.Single)">
+            <summary>
+            Creates a point in the position (x,y)
+            </summary>
+            <param name="x">x coordinate</param>
+            <param name="y">y coordinate</param>
+        </member>
+        <member name="M:Metria.Hyperbolic._2.Point.EuclidianDistance(Metria.Hyperbolic._2.Point)">
+            <summary>
+            Calculate and returns Euclidean distance from this point to a point P
+            </summary>
+            <param name="P">Point P</param>
+            <returns>distance from this point to poitn P</returns>
+        </member>
+        <member name="M:Metria.Hyperbolic._2.Point.EuclidianPoweredDistance(Metria.Hyperbolic._2.Point)">
+            <summary>
+            Calculate and returns Euclidean distance powered by 2 from this point to a point P
+            </summary>
+            <param name="P">Point P</param>
+            <returns>distance powered</returns>
+        </member>
+        <member name="T:Metria.Hyperbolic._2.Ray">
+            <summary>
+            A ray going from point A and passing throught point B
+            </summary>
+        </member>
+        <member name="M:Metria.Hyperbolic._2.Voronoi.VoronoiCell.CutPoligon(Metria.Hyperbolic._2.Line,System.Boolean@)">
+            <summary>
+            Cut the voronoi cells in two, and discard the one that does not have the center of the cell included
+            </summary>
+            <param name="L"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Metria.Euclidian._2.Base">
+            <summary>
+            This class has no actual use, and is used only to especify some informations of the used geometry
+            </summary>
+        </member>
+        <member name="M:Metria.Euclidian._2.Point.#ctor">
+            <summary>
+            Creates a point in the orign
+            </summary>
+        </member>
+        <member name="M:Metria.Euclidian._2.Point.#ctor(System.Single,System.Single)">
+            <summary>
+            Creates a point in the position (x,y)
+            </summary>
+            <param name="x">x coordinate</param>
+            <param name="y">y coordinate</param>
+        </member>
+        <member name="M:Metria.Euclidian._2.Point.Distance(Metria.Euclidian._2.Point)">
+            <summary>
+            Calculate and returns Euclidean distance from this point to a point P
+            </summary>
+            <param name="P">Point P</param>
+            <returns>distance from this point to poitn P</returns>
+        </member>
+        <member name="M:Metria.Euclidian._2.Point.PoweredDistance(Metria.Euclidian._2.Point)">
+            <summary>
+            Calculate and returns Euclidean distance powered by 2 from this point to a point P
+            </summary>
+            <param name="P">Point P</param>
+            <returns>distance powered</returns>
+        </member>
+        <member name="M:Metria.Euclidian._2.Voronoi.VoronoiCell.CutPoligon(Metria.Euclidian._2.Line,System.Boolean@)">
+            <summary>
+            Cut the voronoi cells in two, and discard the one that does not have the center of the cell included
+            </summary>
+            <param name="L"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
