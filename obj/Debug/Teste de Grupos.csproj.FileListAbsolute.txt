@@ -16,3 +16,11 @@ D:\Metria Project - Copy\Teste de Grupos\bin\Debug\Metria.xml
 D:\Metria Project - Copy\Teste de Grupos\obj\Debug\Teste de Grupos.csprojResolveAssemblyReference.cache
 D:\Metria Project - Copy\Teste de Grupos\obj\Debug\Teste de Grupos.exe
 D:\Metria Project - Copy\Teste de Grupos\obj\Debug\Teste de Grupos.pdb
+C:\Users\Henrique\Documents\metria-project\Exemplo\obj\Debug\Teste de Grupos.exe
+C:\Users\Henrique\Documents\metria-project\Exemplo\obj\Debug\Teste de Grupos.pdb
+C:\Users\Henrique\Documents\metria-project\Exemplo\bin\Debug\Teste de Grupos.exe.config
+C:\Users\Henrique\Documents\metria-project\Exemplo\bin\Debug\Teste de Grupos.exe
+C:\Users\Henrique\Documents\metria-project\Exemplo\bin\Debug\Teste de Grupos.pdb
+C:\Users\Henrique\Documents\metria-project\Exemplo\bin\Debug\metria.dll
+C:\Users\Henrique\Documents\metria-project\Exemplo\bin\Debug\metria.pdb
+C:\Users\Henrique\Documents\metria-project\Exemplo\obj\Debug\Teste de Grupos.csprojResolveAssemblyReference.cache
